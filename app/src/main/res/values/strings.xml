@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FilmyWorld</string>
+    <string name="new_release_content">New Releases</string>
+    <string name="upcoming_txt">Upcoming Movies</string>
+    <string name="overview_text">Overview</string>
+    <string name="poster_content_txt">Poster Image</string>
+    <string name="release_date_txt">Release Date:</string>
+    <string name="rating_total_text">/10</string>
+    <string name="more_images_txt">More Images</string>
+    <string name="cast_image_desc">Cast Images</string>
+    <string name="backdrop_desc_txt">BackDrop content</string>
+    <string name="cast_heading_txt">Casts</string>
+    <string name="popular_movies_text">Popular Movies</string>
+    <string name="top_rated_txt">Top Rated Movies</string>
+    <string name="trailers_heading_txt">Trailers</string>
+    <string name="trailer_img_desc">Trailer  Images Description</string>
+    <string name="fav_movie_text">Favorite Movies</string>
+    <string name="search_txt">Search</string>
+    <string name="searchable_hint">Enter Movie Name</string>
+    <string name="no_movies_txt">No Movies Found</string>
+    <string name="string_with_no_favourite_movie">No Favorite Movies</string>
+    <string name="share_btn_txt">Share</string>
+    <string name="API_KEY">f4c4f61b1ba00bcb643537c908ad5abe</string>
+    <string name="ad_app_id" translatable="false">ca-app-pub-2225875230487392~8227984084</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2225875230487392/4097167381</string>
+</resources>

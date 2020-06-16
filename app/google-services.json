@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561473901064",
+    "firebase_url": "https://filmyworld-5171e.firebaseio.com",
+    "project_id": "filmyworld-5171e",
+    "storage_bucket": "filmyworld-5171e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561473901064:android:8faf26e1cc022d36bdb7bd",
+        "android_client_info": {
+          "package_name": "com.developer.kimy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561473901064-pfaudru3t48srut2aung9j4l8pe4gs4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlwVpIFC2jxK_akesR2p-dyTPW0OWhJjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561473901064-pfaudru3t48srut2aung9j4l8pe4gs4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
